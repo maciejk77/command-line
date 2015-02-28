@@ -1,0 +1,5 @@
+mv - enables to move files/folders or to rename i.e.
+
+mv file newFile - rename file
+mv ./folder ./newfolder - rename folder
+mv file ../file - move file to parent directory
