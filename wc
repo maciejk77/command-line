@@ -1,0 +1,3 @@
+wc stands for word count, enables to count number of words in the given file i.e.
+
+wc fileName
