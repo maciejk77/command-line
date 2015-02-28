@@ -1,0 +1,3 @@
+grep- enables to look for given word/string in a text line of a specified file(s) i.e.
+
+grep "binary" *.txt
